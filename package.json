@@ -1,0 +1,19 @@
+{
+  "name": "node_npm_registry_example_4_5_1",
+  "version": "1.0.0",
+  "description": "first example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akvinich/sf-4_5_1-npm-registry.git"
+  },
+  "author": "Vitali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akvinich/sf-4_5_1-npm-registry/issues"
+  },
+  "homepage": "https://github.com/akvinich/sf-4_5_1-npm-registry#readme"
+}
